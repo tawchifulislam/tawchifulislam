@@ -1,63 +1,57 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Frontend%20Developer%20%7C%20Future%20Full%20Stack&fontSize=35&fontColor=ffffff" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Tawchiful Islam</h1>
-<h3 align="center">Frontend Developer (React) • Aspiring Full Stack Developer</h3>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tawchiful%20Islam&fontSize=35&fontColor=ffffff)
 
----
+### Frontend Developer | React.js • JavaScript • Tailwind CSS
 
-### 💫 About Me
-I am a passionate **Frontend Web Developer** focused on building interactive and user-friendly web applications. I enjoy turning complex problems into simple and intuitive solutions.
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tawchiful-islam/)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/t4wchif)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:tawchif04@gmail.com)
 
-- 🎓 Currently enrolled in a **6-month web development bootcamp**  
-- ⏳ 3+ months into my journey, currently learning **React.js**  
-- 🎯 Working toward becoming a **Full Stack Developer**  
-- 🔭 Building **real-world projects** to strengthen my portfolio  
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, and JavaScript**  
-- ⚡ Fun fact: **Consistency is my strongest skill**  
+</div>
 
 ---
 
-### 🚀 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode" />
-</p>
+### 👨‍💻 About Me
+
+Frontend developer passionate about building clean, responsive, and user-friendly web experiences. I focus on writing maintainable code and creating products that look great on every device.
+
+- 🔭 Currently building — **React-based web applications**
+- 🌱 Next goal — **Node.js, Express & MongoDB (MERN Stack)**
+- 📍 Based in — **Chittagong, Bangladesh**
+- 💬 Ask me about — **React, JavaScript, Tailwind CSS**
 
 ---
 
-### 📈 Current Focus
-- ⚛️ Mastering **React & component-based architecture**  
-- 🧠 Improving **JavaScript problem-solving skills**  
-- 🌐 Preparing to learn **backend (Node.js & databases)**  
+### 🛠️ Tech Stack
+
+[![](https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode)](https://skillicons.dev)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Tech | Live |
+|---------|------|------|
+| [DigiTools](https://github.com/t4wchif/DigiTools) — Digital product marketplace | React, Vite, Tailwind | [🔗 Live](https://digtools.netlify.app) |
+| [Portfolio](https://github.com/t4wchif/My-Personal-Portfolio) — Personal portfolio website | HTML, JS, Tailwind | [🔗 Live](https://tawchif.vercel.app) |
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=t4wchif&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=t4wchif&theme=tokyonight&hide_border=true" height="150" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t4wchif&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<div align="center">
 
----
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=t4wchif&show_icons=true&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=t4wchif&theme=tokyonight&hide_border=true)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=t4wchif&layout=compact&theme=tokyonight&hide_border=true)
 
-### 🌐 Connect
-<p align="left">
-  <a href="https://www.linkedin.com/in/tawchiful-islam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://x.com/t4wchif" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="mailto:tawchif04@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">🚀 Building scalable web experiences, one project at a time.</p>
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer)
+
+</div>
