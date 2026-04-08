@@ -35,6 +35,7 @@ Frontend developer passionate about building clean, responsive, and user-friendl
 |---------|------|------|
 | [DigiTools](https://github.com/t4wchif/DigiTools) — Digital product marketplace | React, Vite, Tailwind | [🔗 Live](https://digtools.netlify.app) |
 | [Portfolio](https://github.com/t4wchif/My-Personal-Portfolio) — Personal portfolio website | HTML, JS, Tailwind | [🔗 Live](https://tawchif.vercel.app) |
+| [Tracker](https://github.com/t4wchif/GitHub-Issues-Tracker) — Issue tracker website | HTML, JS, Tailwind | [🔗 Live](https://t4wchif.github.io/GitHub-Issues-Tracker/) |
 
 ---
 
