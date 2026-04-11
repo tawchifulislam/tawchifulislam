@@ -32,7 +32,7 @@
 ```JavaScript
 const tawchiful = {
   role:      "Frontend Developer",
-  location:  "Chittagong, Bangladesh 🇧🇩",
+  location:  "Chittagong, Bangladesh",
   focus:     ["React", "JavaScript", "Tailwind CSS"],
   learning:  ["React patterns", "JS fundamentals", "Node.js"],
   portfolio: "https://tawchif.vercel.app",
