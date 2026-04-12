@@ -62,7 +62,7 @@ const tawchiful = {
 |:---:|:---|:---|:---|:---:|
 | 🛍️ | [**DigiTools**](https://github.com/tawchifulislam/DigiTools) | Digital product marketplace with smart cart system, dynamic pricing & fully responsive UI | `React` `Vite` `Tailwind` | [↗ Live](https://digtools.netlify.app) |
 | 🌤️ | [**Meghdut**](https://github.com/tawchifulislam/Meghdut) | Minimal weather app — real-time data, 5-day forecast & dark glassmorphism UI | `JavaScript` `CSS` | [↗ Live](https://meghdut-weather.netlify.app) |
-| 🐛 | [**Issue Tracker**](https://github.com/tawchifulislam/GitHub-Issues-Tracker) | GitHub API-powered dashboard for tracking & filtering repository issues in real time | `JavaScript` `Tailwind` | [↗ Live](https://t4wchif.github.io/GitHub-Issues-Tracker/) |
+| 🐛 | [**Issue Tracker**](https://github.com/tawchifulislam/GitHub-Issues-Tracker) | GitHub API-powered dashboard for tracking & filtering repository issues in real time | `JavaScript` `Tailwind` | [↗ Live](https://tawchifulislam.github.io/GitHub-Issues-Tracker/) |
 | 🧑‍💼 | [**Portfolio**](https://github.com/tawchifulislam/My-Personal-Portfolio) | Personal site with animated sections, project showcase & contact form | `HTML` `JavaScript` `Tailwind` | [↗ Live](https://tawchif.vercel.app) |
 
 </div>
