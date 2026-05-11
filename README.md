@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Tawchiful+Islam+%F0%9F%91%8B;Frontend+Developer;React+%C2%B7+JavaScript+%C2%B7+Tailwind+CSS;Building+clean+%26+purposeful+UIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hey%2C+I'm+Tawchiful+Islam+%F0%9F%91%8B;Frontend+Developer;React+%C2%B7+Next.js+%C2%B7+JavaScript;Building+clean+%26+purposeful+UIs" alt="Typing SVG" />
 
 <br/>
 
@@ -36,8 +36,8 @@
 ```js
 const tawchiful = {
   role       : "Frontend Developer",
-  building   : "React-based web applications",
-  learning   : ["React Patterns", "Component Architecture", "JS Internals"],
+  building   : "React & Next.js web applications",
+  learning   : ["React Patterns", "Next.js App Router", "JS Internals"],
   portfolio  : "tawchif.vercel.app",
   available  : "Open to remote opportunities 🌍",
   funFact    : "I write CSS by hand and I actually enjoy it."
@@ -61,8 +61,10 @@ const tawchiful = {
 
 #### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 #### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -88,7 +90,8 @@ const tawchiful = {
 | 🛍️ | [**DigiTools**](https://github.com/tawchifulislam/DigiTools) | Digital product marketplace — smart cart, dynamic pricing & responsive UI | `React` `Vite` `Tailwind` | [↗ Live](https://digtools.netlify.app) |
 | 🌤️ | [**Meghdut**](https://github.com/tawchifulislam/Meghdut) | Minimal weather app — real-time data, 5-day forecast & glassmorphism UI | `JavaScript` `CSS` | [↗ Live](https://meghdut-weather.netlify.app) |
 | 🐛 | [**Issue Tracker**](https://github.com/tawchifulislam/GitHub-Issues-Tracker) | GitHub API dashboard for tracking & filtering repo issues in real time | `JavaScript` `Tailwind` | [↗ Live](https://tawchifulislam.github.io/GitHub-Issues-Tracker/) |
-| 🧑‍💼 | [**Portfolio**](https://github.com/tawchifulislam/My-Personal-Portfolio) | Personal site — animated sections, project showcase & contact form | `HTML` `JS` `Tailwind` | [↗ Live](https://tawchif.vercel.app) |
+| 📚 | [**Bookworm-Nxt**](https://github.com/tawchifulislam/Bookworm-Nxt) | Digital library platform — browse books, filter by category & borrow digitally | `Next.js` `Tailwind` | [↗ Live](https://bookworm-nxt.vercel.app) |
+| 🤝 | [**KEEN**](https://github.com/tawchifulislam/KEEN) | Relationship manager — log friend interactions & visualize patterns with charts | `React` `Recharts` `Tailwind` | [↗ Live](https://github.com/tawchifulislam/KEEN) |
 
 </div>
 
