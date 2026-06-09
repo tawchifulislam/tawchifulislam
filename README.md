@@ -45,7 +45,7 @@ const tawchiful = {
   frontend   : ["JavaScript (ES6+)", "React.js", "Next.js (App Router)", "Tailwind CSS"],
   backend    : ["Node.js", "Express.js", "MongoDB Atlas", "JWT Auth"],
   learning   : ["Advanced React Patterns", "JS Internals", "Performance Optimization"],
-  portfolio  : "https://vercel.app",
+  portfolio  : "https://tawchif.vercel.app",
   contact    : "tawchif04@gmail.com", 
   status     : "Looking for Full-Time / Internship Opportunities"
 };
