@@ -46,8 +46,7 @@ const tawchiful = {
   backend    : ["Node.js", "Express.js", "MongoDB Atlas", "JWT Auth"],
   learning   : ["Advanced React Patterns", "JS Internals", "Performance Optimization"],
   portfolio  : "https://tawchif.vercel.app",
-  contact    : "tawchif04@gmail.com", 
-  status     : "Looking for Full-Time / Internship Opportunities"
+  contact    : "tawchif04@gmail.com",
 };
 
 ```
