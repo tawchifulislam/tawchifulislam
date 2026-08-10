@@ -25,9 +25,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=tawchifulislam&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0d1117" height="165" />
+<img src="https://streak-stats.demolab.com?user=tawchifulislam&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0d1117" height="165" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tawchifulislam&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6" height="165" />
 
 </div>
 
@@ -42,8 +41,8 @@
 ```js
 const tawchiful = {
   role       : "Full-Stack Web Developer",
-  frontend   : ["JavaScript (ES6+)", "React.js", "Next.js (App Router)", "Tailwind CSS"],
-  backend    : ["Node.js", "Express.js", "MongoDB Atlas", "JWT Auth"],
+  frontend   : ["TypeScript", "JavaScript (ES6+)", "React.js", "Next.js (App Router)", "Tailwind CSS"],
+  backend    : ["Node.js", "Express.js", "PostgreSQL", "Prisma", "MongoDB Atlas", "JWT Auth"],
   learning   : ["Advanced React Patterns", "JS Internals", "Performance Optimization"],
   portfolio  : "https://tawchif.vercel.app",
   contact    : "tawchif04@gmail.com",
@@ -62,6 +61,7 @@ const tawchiful = {
 <div align="center">
 
 #### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -72,6 +72,8 @@ const tawchiful = {
 #### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -81,6 +83,7 @@ const tawchiful = {
 ![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
