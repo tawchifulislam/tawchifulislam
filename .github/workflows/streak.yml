@@ -2,7 +2,7 @@ name: Generate Streak Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch: {}
   push:
     branches:
@@ -22,7 +22,7 @@ jobs:
           USERNAME: tawchifulislam
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           THEME: tokyonight
-          OUTPUT_PATH: github-streak-stats-dark.svg
+          OUTPUT_PATH: streak-dist/github-streak-stats-dark.svg
 
       - name: Generate Streak Stats (Light)
         uses: muhammad-fiaz/github-readme-streak-stats@v1.0.1
@@ -30,12 +30,13 @@ jobs:
           USERNAME: tawchifulislam
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           THEME: default
-          OUTPUT_PATH: github-streak-stats-light.svg
+          OUTPUT_PATH: streak-dist/github-streak-stats-light.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4.2.0
         with:
           target_branch: output
-          build_dir: .
+          build_dir: streak-dist
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
