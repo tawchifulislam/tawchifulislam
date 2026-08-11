@@ -31,8 +31,6 @@
   <img alt="GitHub Streak Stats" src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-streak-stats-dark.svg" height="165" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/stats-dist/top-langs.svg" width="45%"/>
-
 </div>
 
 <br/>
