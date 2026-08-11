@@ -24,9 +24,12 @@
 <br/>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=tawchifulislam&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&background=0d1117" height="165" />
-&nbsp;&nbsp;
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
 
