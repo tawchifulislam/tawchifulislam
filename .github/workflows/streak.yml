@@ -32,10 +32,15 @@ jobs:
           THEME: default
           OUTPUT_PATH: github-streak-stats-light.svg
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4.2.0
-        with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Push SVGs to output branch
+        run: |
+          mkdir -p /tmp/output-branch
+          cp github-streak-stats-dark.svg github-streak-stats-light.svg /tmp/output-branch/
+          cd /tmp/output-branch
+          git init -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update streak stats"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/tawchifulislam/tawchifulislam.git
+          git push origin output --force
