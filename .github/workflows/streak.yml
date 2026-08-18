@@ -16,6 +16,20 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
+      - name: Setup PHP with Composer cache
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          coverage: none
+        env:
+          COMPOSER_CACHE_DIR: ~/.composer/cache
+
+      - name: Cache Composer dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.composer/cache
+          key: composer-cache-${{ runner.os }}
+
       - name: Generate Streak Stats (Dark)
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
