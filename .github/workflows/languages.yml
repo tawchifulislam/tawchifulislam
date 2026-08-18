@@ -1,0 +1,33 @@
+name: Generate Language Stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/languages.yml'
+
+concurrency:
+  group: output-branch-push
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Generate the language stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/top-langs.svg
+          include-title: false
+          colors: dark
+          hide-keys: general, contributions, repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
