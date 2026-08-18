@@ -27,7 +27,7 @@ jobs:
         with:
           image-file: images/top-langs.svg
           include-title: false
-          colors: dark
+          colors: dracula
           hide-keys: general, contributions, repositories
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
