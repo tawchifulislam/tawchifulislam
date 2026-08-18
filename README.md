@@ -25,13 +25,15 @@
 
 <div align="center">
   
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-streak-stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-streak-stats-light.svg" />
-  <img alt="GitHub Streak Stats" src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-streak-stats-dark.svg" height="165" />
-</picture>
-<img src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/main/images/top-langs.svg" width="45%"/>
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-streak-stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-streak-stats-light.svg" />
+    <img alt="GitHub Streak Stats" src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/output/github-streak-stats-dark.svg" height="165" />
+  </picture>
+  &nbsp;&nbsp;
+  <img alt="Top Languages" src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/main/images/top-langs.svg" height="165"/>
+</p>
 
 <br/>
 
