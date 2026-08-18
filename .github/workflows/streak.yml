@@ -2,11 +2,15 @@ name: Generate Streak Stats
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch: {}
   push:
     branches:
       - main
+
+concurrency:
+  group: output-branch-push
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -21,8 +25,6 @@ jobs:
         with:
           php-version: '8.2'
           coverage: none
-        env:
-          COMPOSER_CACHE_DIR: ~/.composer/cache
 
       - name: Cache Composer dependencies
         uses: actions/cache@v4
@@ -31,6 +33,15 @@ jobs:
           key: composer-cache-${{ runner.os }}
 
       - name: Generate Streak Stats (Dark)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=tawchifulislam&theme=tokyonight&timezone=Asia/Dhaka
+          path: github-streak-stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
+
+      - name: Retry Dark on failure
+        if: steps.dark.outcome == 'failure'
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: user=tawchifulislam&theme=tokyonight&timezone=Asia/Dhaka
