@@ -43,9 +43,9 @@
 
 ## 👨‍💻 About Me
 
-I'm Tawchiful Islam, a full-stack web developer based in Chittagong, Bangladesh, with a strong focus on frontend engineering. I enjoy building clean, scalable web applications with React, Next.js, Node.js, and MongoDB, and I put a lot of thought into making interfaces intuitive while keeping the code maintainable. Lately, I've been diving deeper into advanced React patterns, JavaScript internals, and performance optimization through hands-on projects.
+Full-stack web developer from Chittagong, Bangladesh, currently interning as a Backend AI Engineer while building my blog, a live project with real readers. I work with React, Next.js, Node.js, and MongoDB, with a growing focus on frontend engineering, and I'm currently deep into advanced React patterns, JS internals, and performance optimization.
 
-For me, good development comes down to simplicity and clarity, both in design and in code. I write things that are easy to read, test, and build on, because that's what holds up as a project grows.
+I believe in simple, clean code that's easy to read, test, and build on.
 
 <br/>
 
