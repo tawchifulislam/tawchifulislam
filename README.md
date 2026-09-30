@@ -42,9 +42,10 @@
 <br/>
 
 ## 👤 About Me
+
 I am a **Full-Stack Web Developer** based in Chittagong, Bangladesh, currently specializing as a **Backend AI Engineer Intern**. With hands-on experience in **React, Next.js, Node.js, and MongoDB**, I bridge the gap between building robust frontend interfaces and scaling backend architectures. 
 
-Alongside my internship, I actively maintain my personal blog- a live project driven by real-world readership. I am deeply interested in advanced React patterns, JS internals, and performance optimization, always advocating for clean, simple, and testable code.
+Alongside my internship, I actively maintain my personal blog- a live project driven by real-world readership. I am deeply interested in advanced React patterns, JS internals, and performance optimization, and I advocate for clean, simple, testable code.
 
 <br/>
 
