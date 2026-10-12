@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tawchiful+Islam+%F0%9F%91%8B;Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Building+clean+%26+purposeful+web+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=5000&pause=2500&color=6C63FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Tawchiful+Islam+%F0%9F%91%8B;Full+Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+MongoDB;Building+clean+%26+purposeful+web+apps" alt="Typing SVG" />
 
 <br/>
 
@@ -56,7 +56,7 @@ focus_areas:
   - Production-Style REST APIs (Express, JWT, BetterAuth)
   - Relational & NoSQL Databases (PostgreSQL, MongoDB, Redis, Prisma)
   - Payments & Webhooks (Stripe, Idempotent Billing)
-  - LLM-Integrated Backends (API Contracts, Retrieval, Evaluation)
+  - AI-Powered Backends (LLM Usage Metering, Retrieval, Evaluation)
   - Dockerized Services with Automated Tests
 architecture_creed: "Clean, simple, testable code."
 status: Currently building projects and open to junior full-stack roles & remote internships.
@@ -76,17 +76,13 @@ status: Currently building projects and open to junior full-stack roles & remote
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,redux,framer" alt="Frontend" />
 
-#### ⚙️ Backend & APIs
+#### ⚙️ Backend, Databases & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend and APIs" />
-
-#### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,sqlite,redis" alt="Backend, Databases and APIs" />
 
 #### 🚀 Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode" alt="Tools and Deployment" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,postman,vscode" alt="Tools and Deployment" />
 
 </div>
 
