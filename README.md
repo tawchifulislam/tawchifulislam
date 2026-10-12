@@ -35,17 +35,7 @@
   <img alt="Top Languages" src="https://raw.githubusercontent.com/tawchifulislam/tawchifulislam/main/images/top-langs.svg" height="165"/>
 </p>
 
-<br/>
-
----
-
-<br/>
-
-## 👤 About Me
-
-I am a **Full-Stack Web Developer** based in Chittagong, Bangladesh, currently specializing as a **Backend AI Engineer Intern**. With hands-on experience in **React, Next.js, Node.js, and MongoDB**, I bridge the gap between building robust frontend interfaces and scaling backend architectures. 
-
-Alongside my internship, I actively maintain my personal blog- a live project driven by real-world readership. I am deeply interested in advanced React patterns, JS internals, and performance optimization, and I advocate for clean, simple, testable code.
+</div>
 
 <br/>
 
@@ -53,34 +43,50 @@ Alongside my internship, I actively maintain my personal blog- a live project dr
 
 <br/>
 
-## 🛠️ Tech Stack
+## ⚡ System Specs & Philosophy
+
+```yaml
+# system_info.yml
+user: tawchifulislam
+title: Full-Stack Web Developer
+location: Chittagong, Bangladesh
+experience: Backend AI Engineering Intern @ FlyRank AI (Jul - Oct 2026, completed)
+focus_areas:
+  - Full-Stack Web Applications (React, Next.js, Node.js)
+  - Production-Style REST APIs (Express, JWT, BetterAuth)
+  - Relational & NoSQL Databases (PostgreSQL, MongoDB, Redis, Prisma)
+  - Payments & Webhooks (Stripe, Idempotent Billing)
+  - LLM-Integrated Backends (API Contracts, Retrieval, Evaluation)
+  - Dockerized Services with Automated Tests
+architecture_creed: "Clean, simple, testable code."
+status: Currently building projects and open to junior full-stack roles & remote internships.
+```
+
+<br/>
+
+---
+
+<br/>
+
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### 🌐 Languages & Frontend
 
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind,redux,framer" alt="Frontend" />
 
-#### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+#### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend and APIs" />
+
+#### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,redis,prisma" alt="Databases" />
+
+#### 🚀 Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,netlify,vscode" alt="Tools and Deployment" />
 
 </div>
 
